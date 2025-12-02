@@ -27,6 +27,7 @@ Provides backend endpoints for real-time weather retrieval and secure user authe
 Includes custom hooks and configurations for mobile responsiveness and performance optimization
 
 **🛠️Built With**
+
 This project leverages a modern and powerful stack
 
 **Frontend:** React, TypeScript, Vite, Tailwind CSS, Less, Sass, Stylus, Axios
