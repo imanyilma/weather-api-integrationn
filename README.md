@@ -6,8 +6,9 @@ Language TypeScript: 84.9%
 
 
 **📝 Overview**
+
 Weather-api-integrationn is a comprehensive developer toolset designed to streamline the 
-creation of modern weather applications. It combines a reliable #backend API with a modern,
+creation of modern weather applications. It combines a reliable **backend API** with a modern,
  **component-based frontend architecture**,ensuring scalable and maintainable codebases.
 
 ✨ **Key Features**
@@ -66,4 +67,5 @@ npm start
 
 Weather-api-integrationn uses the {test_framework} test framework.
 Run the complete test suite with 
+
 npm test
