@@ -25,27 +25,43 @@ Includes custom hooks and configurations for mobile responsiveness and performan
 
 **🛠️Built With**
 This project leverages a modern and powerful stack
+
 **Frontend:** React, TypeScript, Vite, Tailwind CSS, Less, Sass, Stylus, Axios
+
 **Backend:** Express, Node.js, Mongoose (for MongoDB), Passport (for Authentication), Nodemon
+
 **Tools/Config:** JSON, YAML, npm, PostCSS, Autoprefixer, .ENV
 
 **🚀 Getting Started**
+
 Follow these instructions to get a copy of the project up and running on your local machine.
+
 **Prerequisites**
+
 You'll need the following installed:
 Programming Language: TypeScript
 Package Manager: npmInstallation
 Build weather-api-integrationn from the source and install its dependencies
+
 **Clone the repository:**
+
 git clone https://github.com/imanyilma/weather-api-integrationn
+
 **Navigate to the project directory**
+
 cd weather-api-integrationn
+
 **Install the dependencies using npm**
+
 npm install
+
 **UsageRun the project locally with the following command**
+
 npm start
 
+
 **✅Testing**
+
 Weather-api-integrationn uses the {test_framework} test framework.
 Run the complete test suite with 
 npm test
