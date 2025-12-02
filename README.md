@@ -5,15 +5,21 @@ Language TypeScript: 84.9%
 
 **📝 Overview**
 Weather-api-integrationn is a comprehensive developer toolset designed to streamline the 
-creation of modern weather applications. It combines a reliable #backend API with a modern, 
- **component-based frontend architecture**, ensuring scalable and maintainable codebases.
+creation of modern weather applications. It combines a reliable #backend API with a modern,
+ **component-based frontend architecture**,ensuring scalable and maintainable codebases.
+
 ✨ **Key Features**
+
 🍀 **Dependency Management:** 
 Uses pnpm-lock.yaml for consistent, reproducible builds across different environments.
+
+
 **🌺 UI Components:**
 Offers a rich library of accessible, styled React components built with Tailwind CSS.
+
 **💫 Weather Data API:**
 Provides backend endpoints for real-time weather retrieval and secure user authentication via Google OAuth.
+
 **🔧Responsive Design:**
 Includes custom hooks and configurations for mobile responsiveness and performance optimization
 
